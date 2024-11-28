@@ -1,0 +1,46 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+node_modules/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Log files
+*.log
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Pytest
+.cache/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Miscellaneous
+*.bak
+*.tmp

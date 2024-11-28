@@ -57,7 +57,6 @@ Sample list of questions below:
 
 Steps:
 1. **Data Preparation:**
-    - Load the dataset containing match results.
     - Filter matches where the team is "India".
     - Count the total number of matches played (Total Matches), wins (Wins), losses (Losses), and ties (Ties).
 2. **Processing:**
